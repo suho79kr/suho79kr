@@ -11,6 +11,12 @@ Claude로 작업지시서를 쓰고, Cursor·Codex로 구현하는 방식으로
 - X: [@suho79kr](https://x.com/suho79kr)
 - Contact: founder@serayun.com
 
+## 공개 개요 저장소
+
+- [cursor-claude-workflow-kr](https://github.com/suho79kr/cursor-claude-workflow-kr) — Claude로 작업지시서 → Cursor·Codex로 구현하는 실제 흐름
+- [sereaniel-overview](https://github.com/suho79kr/sereaniel-overview) — 세레니얼(Chat · Duo · Council 개인 AI 작업공간) 개요
+- [safesm-checklist](https://github.com/suho79kr/safesm-checklist) — SafeSM(택배 현장 일일 점검·안전교육 기록) 개요
+
 ## Stack
 
 - Claude (설계 · 작업지시)
